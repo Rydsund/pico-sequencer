@@ -1,0 +1,4 @@
+/c_code/build/      # Ignore C build files
+*.uf2               # Ignore firmware binaries
+*.pyc               # Ignore compiled Python files
+.vscode/            # Ignore VSCode configs
